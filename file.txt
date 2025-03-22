@@ -1,0 +1,2 @@
+This is first line of file in branch1.
+This is second line of file in branch2.
